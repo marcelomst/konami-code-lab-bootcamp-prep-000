@@ -19,7 +19,7 @@ function init() {
     // Now, how can we check for which specific key was pressed?
       const key = event.key;
  
-      if (key=== codes[index])learn test {
+      if (key=== codes[index]){
         index++;
      
         if (index === codes.length) {
